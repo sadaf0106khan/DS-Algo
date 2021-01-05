@@ -1,2 +1,2 @@
 # DS-Algo
-Implementation of Data structures and Algorithms in Java 
+Implementation of Arrays (Data Structure) in Java 
